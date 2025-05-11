@@ -1,0 +1,16 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "from": "1970-01-01T00:14:53.000000510Z",
+  "to": "1970-01-01T00:02:44.000000070Z",
+  "cursor": "Rubber best-of-breed",
+  "limit": 583,
+  "operationTypes": [
+    "OPERATION_TYPE_TRACK_MFEE",
+    "OPERATION_TYPE_SELL_MARGIN"
+  ],
+  "state": "OPERATION_STATE_PROGRESS",
+  "withoutCommissions": false,
+  "withoutTrades": true,
+  "withoutOvernights": true
+}

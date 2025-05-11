@@ -1,0 +1,20 @@
+{
+  "id": "dc3ed9ed-2afd-470b-9408-ada646b4f4d8",
+  "importStreams": [
+    {
+      "id": "cbdcfe98-2a49-45d0-8092-63d1ef1c3c50",
+      "name": "T-Invest contracts",
+      "importerName": "ProtoFile",
+      "createMissingOperations": true,
+      "options": {
+        "files": [
+          "../../../../investAPI/src/docs/contracts"
+        ],
+        "importPaths": [],
+        "excludedFiles": []
+      }
+    }
+  ],
+  "authConfigs": [],
+  "certificates": []
+}

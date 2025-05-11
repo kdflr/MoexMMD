@@ -1,0 +1,7 @@
+{
+  "accounts": [
+    "online",
+    "payment"
+  ],
+  "pingDelayMillis": 579
+}

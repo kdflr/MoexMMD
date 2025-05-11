@@ -1,0 +1,15 @@
+{
+  "figi": "Books, Jewelery & Tools Licensed Steel Keyboard Clothing & Electronics",
+  "quantity": "611",
+  "price": {
+    "units": "814",
+    "nano": 844
+  },
+  "direction": "ORDER_DIRECTION_UNSPECIFIED",
+  "accountId": "{{ faker.random.uuid }}",
+  "orderType": "ORDER_TYPE_MARKET",
+  "orderId": "{{ faker.random.uuid }}",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "timeInForce": "TIME_IN_FORCE_DAY",
+  "priceType": "PRICE_TYPE_POINT"
+}

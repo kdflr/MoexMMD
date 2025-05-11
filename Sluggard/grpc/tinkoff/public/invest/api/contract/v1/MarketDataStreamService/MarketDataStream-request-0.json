@@ -1,0 +1,14 @@
+{
+  "subscribeCandlesRequest": {
+    "subscriptionAction": "SUBSCRIPTION_ACTION_SUBSCRIBE",
+    "instruments": [
+      {
+        "figi": "TCS80A107UL4",
+        "interval": "SUBSCRIPTION_INTERVAL_ONE_MINUTE",
+        "instrumentId": "TCS80A107UL4"
+      },
+    ],
+    "waitingClose": true,
+    "candleSourceType": "CANDLE_SOURCE_EXCHANGE"
+  }
+}

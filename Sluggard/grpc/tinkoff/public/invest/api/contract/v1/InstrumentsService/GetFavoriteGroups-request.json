@@ -1,0 +1,10 @@
+{
+  "instrumentId": [
+    "{{ faker.random.uuid }}",
+    "{{ faker.random.uuid }}"
+  ],
+  "excludedGroupId": [
+    "{{ faker.random.uuid }}",
+    "{{ faker.random.uuid }}"
+  ]
+}

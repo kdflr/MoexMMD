@@ -1,0 +1,11 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "orderId": "{{ faker.random.uuid }}",
+  "idempotencyKey": "Missouri",
+  "quantity": "128",
+  "price": {
+    "units": "29",
+    "nano": 221
+  },
+  "priceType": "PRICE_TYPE_UNSPECIFIED"
+}

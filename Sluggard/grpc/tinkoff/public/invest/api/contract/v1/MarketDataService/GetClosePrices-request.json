@@ -1,0 +1,11 @@
+{
+  "instruments": [
+    {
+      "instrumentId": "{{ faker.random.uuid }}"
+    },
+    {
+      "instrumentId": "{{ faker.random.uuid }}"
+    }
+  ],
+  "instrumentStatus": "INSTRUMENT_STATUS_ALL"
+}

@@ -1,0 +1,8 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "price": {
+    "units": "361",
+    "nano": 733
+  }
+}

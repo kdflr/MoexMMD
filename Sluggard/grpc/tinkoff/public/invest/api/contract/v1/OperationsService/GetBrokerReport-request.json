@@ -1,0 +1,7 @@
+{
+  "generateBrokerReportRequest": {
+    "accountId": "{{ faker.random.uuid }}",
+    "from": "1970-01-01T00:13:11.000000276Z",
+    "to": "1970-01-01T00:07:50.000000917Z"
+  }
+}

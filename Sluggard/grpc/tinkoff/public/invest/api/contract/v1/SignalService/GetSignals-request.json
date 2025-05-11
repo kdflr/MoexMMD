@@ -1,0 +1,14 @@
+{
+  "signalId": "{{ faker.random.uuid }}",
+  "strategyId": "{{ faker.random.uuid }}",
+  "strategyType": "STRATEGY_TYPE_FUNDAMENTAL",
+  "instrumentUid": "{{ faker.random.uuid }}",
+  "from": "1970-01-01T00:01:52.000000923Z",
+  "to": "1970-01-01T00:12:15.000000178Z",
+  "direction": "SIGNAL_DIRECTION_BUY",
+  "active": "SIGNAL_STATE_UNSPECIFIED",
+  "paging": {
+    "limit": 673,
+    "pageNumber": 841
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "figi": "Kids, Outdoors & Toys",
+  "quantity": "567",
+  "price": {
+    "units": "889",
+    "nano": 312
+  },
+  "direction": "ORDER_DIRECTION_UNSPECIFIED",
+  "accountId": "{{ faker.random.uuid }}",
+  "orderType": "ORDER_TYPE_BESTPRICE",
+  "orderId": "{{ faker.random.uuid }}",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "timeInForce": "TIME_IN_FORCE_FILL_OR_KILL",
+  "priceType": "PRICE_TYPE_CURRENCY"
+}

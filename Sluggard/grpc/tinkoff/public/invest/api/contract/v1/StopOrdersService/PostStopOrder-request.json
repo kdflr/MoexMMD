@@ -1,0 +1,26 @@
+{
+  "figi": "transparent",
+  "quantity": "830",
+  "price": {
+    "units": "341",
+    "nano": 411
+  },
+  "stopPrice": {
+    "units": "103",
+    "nano": 630
+  },
+  "direction": "STOP_ORDER_DIRECTION_UNSPECIFIED",
+  "accountId": "{{ faker.random.uuid }}",
+  "expirationType": "STOP_ORDER_EXPIRATION_TYPE_GOOD_TILL_CANCEL",
+  "stopOrderType": "STOP_ORDER_TYPE_STOP_LOSS",
+  "expireDate": "1970-01-01T00:05:04.000000463Z",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "exchangeOrderType": "EXCHANGE_ORDER_TYPE_MARKET",
+  "takeProfitType": "TAKE_PROFIT_TYPE_UNSPECIFIED",
+  "trailingData": {
+    "indentType": "TRAILING_VALUE_UNSPECIFIED",
+    "spreadType": "TRAILING_VALUE_ABSOLUTE"
+  },
+  "priceType": "PRICE_TYPE_UNSPECIFIED",
+  "orderId": "{{ faker.random.uuid }}"
+}

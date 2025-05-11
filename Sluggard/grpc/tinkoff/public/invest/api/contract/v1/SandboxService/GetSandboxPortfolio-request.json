@@ -1,0 +1,4 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "currency": "EUR"
+}

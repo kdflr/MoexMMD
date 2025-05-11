@@ -1,0 +1,7 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "from": "1970-01-01T00:10:38.000000607Z",
+  "to": "1970-01-01T00:00:43.000000345Z",
+  "state": "OPERATION_STATE_PROGRESS",
+  "figi": "Won"
+}

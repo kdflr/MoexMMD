@@ -1,0 +1,5 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "orderId": "{{ faker.random.uuid }}",
+  "orderIdType": "ORDER_ID_TYPE_EXCHANGE"
+}

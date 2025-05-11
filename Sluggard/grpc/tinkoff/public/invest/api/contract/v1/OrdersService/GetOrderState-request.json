@@ -1,0 +1,6 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "orderId": "{{ faker.random.uuid }}",
+  "priceType": "PRICE_TYPE_CURRENCY",
+  "orderIdType": "ORDER_ID_TYPE_REQUEST"
+}

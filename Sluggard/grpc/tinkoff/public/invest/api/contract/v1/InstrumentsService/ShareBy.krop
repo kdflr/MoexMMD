@@ -1,0 +1,13 @@
+{
+  "details": {
+    "methodFqn": "tinkoff.public.invest.api.contract.v1.InstrumentsService.ShareBy"
+  },
+  "requests": [
+    {
+      "location": "ShareBy-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc",
+  "importStreamId": "cbdcfe98-2a49-45d0-8092-63d1ef1c3c50"
+}

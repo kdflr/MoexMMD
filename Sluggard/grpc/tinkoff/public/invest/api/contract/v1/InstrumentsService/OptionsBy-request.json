@@ -1,0 +1,4 @@
+{
+  "basicAssetUid": "{{ faker.random.uuid }}",
+  "basicAssetPositionUid": "{{ faker.random.uuid }}"
+}

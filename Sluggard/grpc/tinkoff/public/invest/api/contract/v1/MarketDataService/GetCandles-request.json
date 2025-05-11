@@ -1,0 +1,9 @@
+{
+  "figi": "BBG00475KKY8",
+  "from": "2025-04-28T07:00:00.000000000Z",
+  "to": "2025-04-28T13:30:00.000000000Z",
+  "interval": "CANDLE_INTERVAL_1_MIN",
+  "instrumentId": "BBG00475KKY8",
+  "candleSourceType": "CANDLE_SOURCE_EXCHANGE",
+  "limit": 519
+}

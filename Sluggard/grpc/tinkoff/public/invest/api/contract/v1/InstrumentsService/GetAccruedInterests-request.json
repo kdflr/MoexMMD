@@ -1,0 +1,6 @@
+{
+  "figi": "transition",
+  "from": "1970-01-01T00:04:30.000000317Z",
+  "to": "1970-01-01T00:07:04.000000276Z",
+  "instrumentId": "{{ faker.random.uuid }}"
+}

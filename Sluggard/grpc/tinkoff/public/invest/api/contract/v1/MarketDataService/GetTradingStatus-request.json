@@ -1,0 +1,4 @@
+{
+  "figi": "Refined",
+  "instrumentId": "{{ faker.random.uuid }}"
+}

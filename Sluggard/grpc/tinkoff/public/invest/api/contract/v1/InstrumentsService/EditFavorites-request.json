@@ -1,0 +1,14 @@
+{
+  "instruments": [
+    {
+      "figi": "Generic Steel Shoes Global Practical",
+      "instrumentId": "{{ faker.random.uuid }}"
+    },
+    {
+      "figi": "Knoll",
+      "instrumentId": "{{ faker.random.uuid }}"
+    }
+  ],
+  "actionType": "EDIT_FAVORITES_ACTION_TYPE_UNSPECIFIED",
+  "groupId": "{{ faker.random.uuid }}"
+}

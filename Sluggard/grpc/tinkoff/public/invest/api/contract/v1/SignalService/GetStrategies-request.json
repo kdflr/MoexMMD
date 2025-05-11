@@ -1,0 +1,3 @@
+{
+  "strategyId": "{{ faker.random.uuid }}"
+}

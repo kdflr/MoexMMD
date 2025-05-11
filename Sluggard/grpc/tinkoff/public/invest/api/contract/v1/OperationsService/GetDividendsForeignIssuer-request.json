@@ -1,0 +1,7 @@
+{
+  "generateDivForeignIssuerReport": {
+    "accountId": "{{ faker.random.uuid }}",
+    "from": "1970-01-01T00:05:29.000000295Z",
+    "to": "1970-01-01T00:04:53.000000018Z"
+  }
+}

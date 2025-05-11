@@ -1,0 +1,5 @@
+{
+  "idType": "INSTRUMENT_ID_TYPE_TICKER",
+  "classCode": "Supervisor Square Refined Cotton Salad",
+  "id": "{{ faker.random.uuid }}"
+}

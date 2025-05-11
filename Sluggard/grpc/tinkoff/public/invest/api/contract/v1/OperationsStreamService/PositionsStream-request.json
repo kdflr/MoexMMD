@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    "Zambian Kwacha",
+    "Well"
+  ],
+  "withInitialPositions": false,
+  "pingSettings": {
+    "pingDelayMs": 972
+  }
+}

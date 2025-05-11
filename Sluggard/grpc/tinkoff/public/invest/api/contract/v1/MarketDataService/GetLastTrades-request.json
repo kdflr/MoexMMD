@@ -1,0 +1,7 @@
+{
+  "figi": "Borders Practical Fresh Salad",
+  "from": "1970-01-01T00:15:47.000000684Z",
+  "to": "1970-01-01T00:03:06.000000690Z",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "tradeSource": "TRADE_SOURCE_ALL"
+}

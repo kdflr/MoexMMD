@@ -1,0 +1,5 @@
+{
+  "figi": "AI Credit Card Account",
+  "depth": 578,
+  "instrumentId": "{{ faker.random.uuid }}"
+}

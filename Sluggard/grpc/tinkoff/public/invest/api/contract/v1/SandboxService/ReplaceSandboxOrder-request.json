@@ -1,0 +1,11 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "orderId": "{{ faker.random.uuid }}",
+  "idempotencyKey": "cross-platform",
+  "quantity": "79",
+  "price": {
+    "units": "998",
+    "nano": 73
+  },
+  "priceType": "PRICE_TYPE_CURRENCY"
+}

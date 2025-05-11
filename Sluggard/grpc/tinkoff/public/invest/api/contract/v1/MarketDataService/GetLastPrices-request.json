@@ -1,0 +1,12 @@
+{
+  "figi": [
+    "content SCSI",
+    "foreground Home, Jewelery & Jewelery"
+  ],
+  "instrumentId": [
+    "{{ faker.random.uuid }}",
+    "{{ faker.random.uuid }}"
+  ],
+  "lastPriceType": "LAST_PRICE_EXCHANGE",
+  "instrumentStatus": "INSTRUMENT_STATUS_UNSPECIFIED"
+}

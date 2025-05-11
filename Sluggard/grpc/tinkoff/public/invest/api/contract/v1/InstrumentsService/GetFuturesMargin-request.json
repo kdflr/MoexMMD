@@ -1,0 +1,4 @@
+{
+  "figi": "SMS support",
+  "instrumentId": "{{ faker.random.uuid }}"
+}

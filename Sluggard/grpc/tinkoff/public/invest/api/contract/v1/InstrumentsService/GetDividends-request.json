@@ -1,0 +1,6 @@
+{
+  "figi": "navigating",
+  "from": "1970-01-01T00:08:48.000000134Z",
+  "to": "1970-01-01T00:07:12.000000634Z",
+  "instrumentId": "{{ faker.random.uuid }}"
+}

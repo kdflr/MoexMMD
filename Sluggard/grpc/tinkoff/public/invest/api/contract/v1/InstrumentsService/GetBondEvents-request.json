@@ -1,0 +1,6 @@
+{
+  "from": "1970-01-01T00:03:34.000000867Z",
+  "to": "1970-01-01T00:15:56.000000018Z",
+  "instrumentId": "{{ faker.random.uuid }}",
+  "type": "EVENT_TYPE_MTY"
+}

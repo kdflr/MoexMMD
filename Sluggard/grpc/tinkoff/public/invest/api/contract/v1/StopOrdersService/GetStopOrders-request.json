@@ -1,0 +1,6 @@
+{
+  "accountId": "{{ faker.random.uuid }}",
+  "status": "STOP_ORDER_STATUS_EXPIRED",
+  "from": "1970-01-01T00:13:56.000000270Z",
+  "to": "1970-01-01T00:07:47.000000310Z"
+}
